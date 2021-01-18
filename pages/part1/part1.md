@@ -18,7 +18,7 @@ This part introduces containerization with Docker and relevant concepts such as 
 
 * Share your own containers publicly
 
-## What is DevOps?
+## Do U know, What is DevOps?
 
 DevOps is a term consisting of two parts, *Dev* and *Ops*. *Dev* refers to the development of software and *Ops* to operations. The concept DevOps has many definitions, but in practice, it means that the release, configuring, and monitoring of software is in the hands of the very people who develop it. A more formal definition is offered by [Jabbari et al.](https://dl.acm.org/citation.cfm?id=2962707): "DevOps is a development methodology aimed at bridging the gap between Development and Operations, emphasizing communication and collaboration, continuous integration, quality assurance and delivery with automated deployment utilizing a set of development practices". 
 
